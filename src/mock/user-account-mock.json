@@ -1,0 +1,23 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "users": [
+            {
+                "userId": 1,
+                "userName": "pushp",
+                "userEmail": "pushp@gmail.com",
+                "state": "karnataka",
+                "city": "bangalore"
+            },
+            {
+                "userId": 2,
+                "userName": "rahul",
+                "userEmail": "rahul@gmail.com",
+                "state": "Bihar",
+                "city": "patna"
+            }
+        ]
+    }
+ }
+ 

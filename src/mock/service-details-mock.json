@@ -1,0 +1,34 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "interCity": [
+            {
+                "serviceID": 1,
+                "serviceName": "House Shifting",
+                "serviceType": "interCity"
+            }
+        ],
+        "intraCity": [
+            {
+                "serviceID": 2,
+                "serviceName": "Vehicle shifting",
+                "serviceType": "intraCity"
+            }
+        ],
+        "interState": [
+            {
+                "serviceID": 3,
+                "serviceName": "office shifting",
+                "serviceType": "interState"
+            }
+        ],
+        "intraState": [
+            {
+                "serviceID": 4,
+                "serviceName": "House Shifting",
+                "serviceType": "intraState"
+            }
+        ]
+    }
+}

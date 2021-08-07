@@ -1,0 +1,26 @@
+{
+    "statusMessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "services": {
+            "list": [
+                {
+                    "serviceID": 1,
+                    "serviceType": "interCity"
+                },
+                {
+                    "serviceID": 2,
+                    "serviceType": "intraCity"
+                },
+                {
+                    "serviceID": 3,
+                    "serviceType": "interState"
+                },
+                {
+                    "serviceID": 4,
+                    "serviceType": "intraState"
+                }
+            ]
+        }
+    }
+}
