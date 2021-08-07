@@ -47,21 +47,21 @@ npm run mongo
 
 ## Directory Structure
 
--- src
-    -- app
-        -- controller
-        -- model
-        -- routes
-    -- database
-        -- config
-        -- index.js
-    -- mock
-    -- server
-        -- index.js
--- .gitignore
--- package-lock.json
--- package.json
--- README.md
+    -- src
+        -- app
+            -- controller
+            -- model
+            -- routes
+        -- database
+            -- config
+            -- index.js
+        -- mock
+        -- server
+            -- index.js
+        -- .gitignore
+        -- package-lock.json
+        -- package.json
+        -- README.md
 
 ### Easy documentation to setup MONGO DB on your machine (optional)
 
